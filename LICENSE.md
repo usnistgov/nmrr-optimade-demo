@@ -32,6 +32,4 @@ SOFTWARE OR SERVICES PROVIDED HEREUNDER.
 This repository includes the following software, licensed by third
 parties and not subject to the above disclaimer.
 
-### *name of bundled dependency*
-
-*Text of bundled dependency license*
+Not Applicable
