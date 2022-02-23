@@ -1,0 +1,5 @@
+cdcs~=0.1
+pandas~=1.4
+lxml~=4.8
+requests~=2.27
+matplotlib~=3.5
