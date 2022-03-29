@@ -3,6 +3,7 @@
 1. Demonstration scripts and notebooks related to the NIST Materials Resource Registry (MRR)
    - These scripts are meant to be demonstrations of how to use the MRR API to facilitate interoperable federated search
    - Scripts can be used as standalone code or integrated into other software
+   - The demo notebook can be run in the browser with Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/usnistgov/nmrr-optimade-demo/main?labpath=mrr_optimade_oqmd_query_demo.ipynb)
 1. Contact information:
    - Chandler Becker, NIST Material Measurement Laboratory, Office of Data and Informatics, Data Science Group
    - chandler.becker@nist.gov
